@@ -33,7 +33,7 @@ description: "한국어 자기소개서/자소서의 경험 정리, 문항·공�
 - 여러 문항·여러 회사: [지원서 세트와 기업별 변형](references/application-set.md)
 - 본문·MD/TXT·경험 요약·전문 문서 연결: [출력과 재사용](references/output-and-reuse.md)
 
-사실은 충분한데 논지가 흐리거나, 직무별 강조·지원자 말투를 살린 완성 문단이 필요하면 [동일 사실의 완성 답안 비교](references/examples/full-answer-comparisons.md)에서 관련 쌍을 읽는다. 구조와 선택 이유를 참고하되 예시의 사실·관점을 지원자에게 옮기지 않는다. 스킬 자체를 수정·평가할 때의 비교 절차는 [작성 품질 비교](tests/writing-quality.md)에 있으며 일반 집필에서는 읽지 않는다.
+논지·직무 강조·말투가 흐리거나, 소재 교체·추가 확인·긴 메모 압축의 판단이 필요하면 [완성 답안과 판단 시연](references/examples/full-answer-comparisons.md)에서 관련 항목만 읽는다. 구조와 선택 이유를 참고하되 예시의 사실·관점을 지원자에게 옮기지 않는다. 스킬 자체를 수정·평가할 때의 비교 절차는 [작성 품질 비교](tests/writing-quality.md)에 있으며 일반 집필에서는 읽지 않는다.
 
 문항별 상세 작법이나 완결 예시가 필요할 때만 아래 한 쌍을 읽는다.
 
