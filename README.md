@@ -4,6 +4,8 @@
 
 문항·공고 분석부터 경험 선택, 초안 작성, 문장·분량 첨삭까지 돕는 AI 에이전트 스킬입니다.
 
+전문가 평가가 있는 자소서의 좋은 대목·아쉬운 대목을 분석해, 작성 기준과 [전후 수정 예시](skills/korean-job-application/references/expert-writing-decisions.md)에 반영했습니다.
+
 [설치](#설치) · [사용 예시](#사용-예시) · [자료와 출처](skills/korean-job-application/references/source-catalog.md)
 
 ## 설치
@@ -61,4 +63,4 @@ $skill-installer https://github.com/ji5zi5/korean-job-application/tree/main/skil
 
 [스킬 지침](skills/korean-job-application/SKILL.md) · [문항별 작법·사례·출처](skills/korean-job-application/references/source-catalog.md)
 
-예시는 교육용 합성 자료이며 합격을 보장하지 않습니다. 제출 전 사실·글자 수와 공고의 AI 이용·블라인드 규정을 직접 확인하세요.
+전후 시연은 교육용 합성 자료이며 합격을 보장하지 않습니다. 제출 전 사실·글자 수와 공고의 AI 이용·블라인드 규정을 직접 확인하세요.

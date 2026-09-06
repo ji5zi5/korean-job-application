@@ -17,6 +17,7 @@ description: "한국어 자기소개서/자소서의 경험 정리, 문항·공�
 - 최종 본문만 요청하면 본문만 준다. 다만 해결되지 않은 핵심 사실이나 금지 정보 때문에 완성본이 될 수 없으면 상태 표식은 숨기지 않는다.
 - 완성 답안에는 확인된 결과를 자연스럽게 쓰고, 쓰지 않은 수치·성과나 과장 방지 같은 내부 점검을 해설하지 않는다. 실제 실패·결과 범위·미해결 핵심 사실은 문항에 필요할 때 남기며, 미래 시제로 제안임이 분명하면 이를 다시 설명하지 않는다.
 - 지원자의 목소리 표본은 표현 참고일 뿐 새 경험의 출처가 아니다. 공개 사례의 다른 지원자 사실이나 문장을 현재 지원자에게 옮기지 않는다.
+- 초안은 문항에 답하는 근거를 중심으로 쓰고, 첨삭은 이미 설득력 있는 대목을 보존한다. 좋은 점·아쉬운 점의 개수를 맞추거나 수치가 없다는 이유만으로 결함을 만들지 않는다.
 - 기업·최신 직무 조사는 사용자가 요청했거나 상위 도구 규칙상 확인이 필요할 때만 한다. 현재 회사 사실은 권위 있는 최신 출처와 가까운 인용을 붙이고, 확인하지 못한 사실은 추정하지 않는다.
 - 기본 결과는 대화 본문이다. 파일이나 이동 가능한 경험 요약은 요청받은 경우만 만든다. 파일명이 없고 안전하게 정할 수 있으면 작업공간의 사용되지 않은 이름을 택하며, 기존 파일은 임의로 덮어쓰지 않는다.
 - 합격, AI 저작성, 탐지 회피를 판정하거나 보장하지 않는다. 고용주의 명시된 AI 이용 규정을 우회하지 않는다.
@@ -27,8 +28,8 @@ description: "한국어 자기소개서/자소서의 경험 정리, 문항·공�
 
 - 경험 정리·질문·소재 비교: [경험 정리·선택과 사실 계약](references/evidence-and-interview.md)
 - 공고·복합 문항 분석 또는 요청한 기업 조사: [공고·복합 문항 분석과 요청한 기업 조사](references/job-and-company-analysis.md)
-- 초안 작성·직무 맞춤·분량: [초안 작성과 직무 맞춤](references/drafting-and-tailoring.md). 소재 선택이나 문장 판단이 필요할 때만 [일반 작법](references/writing-principles.md)을 함께 읽는다.
-- 검토·첨삭·목소리·압축/확장: [검토·첨삭·한국어 목소리](references/review-and-korean.md). 실제로 발견한 문제에 해당하는 `patterns/` 파일만 연다.
+- 초안 작성·직무 맞춤·분량: [초안 작성과 직무 맞춤](references/drafting-and-tailoring.md). 소재·논지 선택이나 설득력 판단에는 [전문가 평가에서 도출한 대조 작법](references/expert-writing-decisions.md)의 해당 대조를 적용한다. 일반 원칙이 필요하면 [일반 작법](references/writing-principles.md)을 읽는다.
+- 검토·첨삭·목소리·압축/확장: [검토·첨삭·한국어 목소리](references/review-and-korean.md). 내용의 장단점은 [대조 작법](references/expert-writing-decisions.md)으로 판단하고, 실제 문제에 해당하는 `patterns/` 파일만 연다. 단순 오탈자·지정 문장 수정에는 사례 분석을 강제하지 않는다.
 - 여러 문항·여러 회사: [지원서 세트와 기업별 변형](references/application-set.md)
 - 본문·MD/TXT·경험 요약·전문 문서 연결: [출력과 재사용](references/output-and-reuse.md)
 
@@ -43,4 +44,4 @@ description: "한국어 자기소개서/자소서의 경험 정리, 문항·공�
 | Q09 장단점 · Q10 윤리·책임 | [작법](references/playbooks/strengths-integrity.md) | [Q09A/B·Q10A/B](references/examples/strengths-integrity.md) |
 | Q11 포부 · Q12 사회 이슈·제안 | [작법](references/playbooks/future-proposal.md) | [Q11A/B·Q12A/B](references/examples/future-proposal.md) |
 
-판단 경계가 헷갈릴 때만 [대조 예시](references/contrastive-examples.md)를 읽는다. 자료의 출처·구성·수량을 확인하거나 공개 사례 근거가 필요한 경우에만 [출처와 지식 색인](references/source-catalog.md)에서 관련 항목을 찾아 해당 파일을 연다.
+판단 경계가 헷갈릴 때만 [대조 예시](references/contrastive-examples.md)를 읽는다. 좋은 자소서의 근거가 필요하면 [전문가 평가 사례](references/cases/expert-reviewed.md)에서 해당 문항의 호평·비판을 함께 확인한다. 자료 구성은 [출처와 지식 색인](references/source-catalog.md)을 따른다. 전체 별점과 특정 대목의 품질은 구분하며, 평가 미확인 사례는 문항 관찰용이지 우수 답안의 근거가 아니다.
