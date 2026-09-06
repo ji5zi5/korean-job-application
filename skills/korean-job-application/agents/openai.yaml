@@ -1,0 +1,4 @@
+interface:
+  display_name: "한국어 자기소개서·자소서 작성·편집"
+  short_description: "사실 기반 자소서 작성·첨삭·지원서 구성을 돕습니다"
+  default_prompt: "$korean-job-application을 사용해 제 경험으로 자기소개서 초안을 작성해 주세요."
