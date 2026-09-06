@@ -24,7 +24,7 @@ description: "한국어 자기소개서/자소서의 경험 정리, 문항·공�
 
 ## 요청에 맞는 참조만 읽기
 
-처음부터 전체 사례·36개 수리 카드·24개 시연을 모두 읽지 않는다.
+처음부터 모든 사례·수리 카드·시연을 읽지 않는다.
 
 - 경험 정리·질문·소재 비교: [경험 정리·선택과 사실 계약](references/evidence-and-interview.md)
 - 공고·복합 문항 분석 또는 요청한 기업 조사: [공고·복합 문항 분석과 요청한 기업 조사](references/job-and-company-analysis.md)
@@ -32,6 +32,8 @@ description: "한국어 자기소개서/자소서의 경험 정리, 문항·공�
 - 검토·첨삭·목소리·압축/확장: [검토·첨삭·한국어 목소리](references/review-and-korean.md). 내용의 장단점은 [대조 작법](references/expert-writing-decisions.md)으로 판단하고, 실제 문제에 해당하는 `patterns/` 파일만 연다. 단순 오탈자·지정 문장 수정에는 사례 분석을 강제하지 않는다.
 - 여러 문항·여러 회사: [지원서 세트와 기업별 변형](references/application-set.md)
 - 본문·MD/TXT·경험 요약·전문 문서 연결: [출력과 재사용](references/output-and-reuse.md)
+
+사실은 충분한데 논지가 흐리거나, 직무별 강조·지원자 말투를 살린 완성 문단이 필요하면 [동일 사실의 완성 답안 비교](references/examples/full-answer-comparisons.md)에서 관련 쌍을 읽는다. 구조와 선택 이유를 참고하되 예시의 사실·관점을 지원자에게 옮기지 않는다. 스킬 자체를 수정·평가할 때의 비교 절차는 [작성 품질 비교](tests/writing-quality.md)에 있으며 일반 집필에서는 읽지 않는다.
 
 문항별 상세 작법이나 완결 예시가 필요할 때만 아래 한 쌍을 읽는다.
 
